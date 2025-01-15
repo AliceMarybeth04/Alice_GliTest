@@ -1,0 +1,8 @@
+<resources>
+        <string name="app_name">GLITest</string>
+        <string name="login">Login</string>
+        <string name="uname_input_message">Enter User Name</string>
+        <string name="password_input_message">Enter Password</string>
+        <string name="login_button">Login</string>
+        <string name="submit_button">SUBMIT</string>
+</resources>
